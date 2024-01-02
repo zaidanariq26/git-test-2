@@ -10,6 +10,13 @@
 <body>
    <h1>Hallo Dunia</h1>
    <p>teks paragraf 1</p>
+
+   <ul>
+      <li>A</li>
+      <li>A</li>
+      <li>A</li>
+      <li>A</li>
+   </ul>
 </body>
 
 </html>
